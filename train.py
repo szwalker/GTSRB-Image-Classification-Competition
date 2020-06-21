@@ -1,5 +1,5 @@
 '''
-Author: Jiaqi Liu
+NYU Computer Vision CS 480
 
 ** Description **
 This is the training code.
@@ -36,7 +36,7 @@ import math
 import os
 from glob import glob
 from PIL import Image
-from Net import Net
+from model import Net
 
 # dataset
 class GTSRB(data.Dataset):

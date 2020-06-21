@@ -1,5 +1,7 @@
+# model = Net()
+
 '''
-Author: Jiaqi Liu
+NYU Computer Vision CS 480
 
 ** Usage **
 Initialize a model:
