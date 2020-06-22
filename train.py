@@ -1,5 +1,5 @@
 '''
-NYU Computer Vision CS 480
+Author: Jiaqi Liu
 
 ** Description **
 This is the training code.
